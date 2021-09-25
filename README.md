@@ -1,2 +1,2 @@
 # Hello World
-![Jacob](demoPic)
+![Jacob](demoPic.png)
