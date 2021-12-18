@@ -1,4 +1,4 @@
-yourName = 'Jacob';
+yourName = 'Jacob Branch';
 
 changingElement = d3.select('#changingElement');
 changingElement.text(yourName);
